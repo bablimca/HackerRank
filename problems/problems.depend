@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601473506 source:/home/umesh/Babli/Github/problems/main.c
+	<stdio.h>
+	<stdlib.h>
+
